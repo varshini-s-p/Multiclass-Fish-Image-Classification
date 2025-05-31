@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1_Score
+CNN (custom),0.1,0.09,0.09,0.09
+VGG16,0.11,0.09,0.09,0.09
+ResNet50,0.12,0.1,0.09,0.08
+MobileNetV2,0.1,0.09,0.09,0.09
+InceptionV3,0.1,0.09,0.09,0.09
+EfficientNetB0,0.16,0.01,0.09,0.03

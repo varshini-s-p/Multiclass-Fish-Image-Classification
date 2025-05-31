@@ -1,0 +1,45 @@
+# Ignore dataset folders
+data/
+train/
+test/
+val/
+
+# Ignore model checkpoints or weights if large
+*.h5
+*.hdf5
+*.ckpt
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+
+# Ignore zipped data or archives
+*.zip
+*.tar
+*.tar.gz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+fishenv/
+.fishenv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit temporary files
+.streamlit/
+
+# Ignore VS Code settings
+.vscode/
